@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Nov 05 16:11:22 CST 2018
+0.baseType=DIRECTORY
+0.base=D\:\\IITData\\Sem3\\TAWork\\Orm_Demo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

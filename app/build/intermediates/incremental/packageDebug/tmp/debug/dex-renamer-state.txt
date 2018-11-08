@@ -1,0 +1,4 @@
+#Mon Nov 05 16:11:22 CST 2018
+base.0=D\:\\IITData\\Sem3\\TAWork\\Orm_Demo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
